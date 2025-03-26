@@ -1,0 +1,902 @@
+html {
+    width: 100%;
+}
+
+body {
+    height: 100%;
+    display: block;
+    font-family: 'JetBrainsMono';
+}
+
+.section1 {
+    max-width: 1920px;
+    height: 1209px;
+    overflow: hidden;
+    box-sizing: border-box;
+    position: relative;
+    background-color: #FAADBF;
+}
+
+.stroka-outer {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    background-color: white;
+}
+
+.stroka1 {
+    width: max-content;
+    height: 175px;
+    overflow: hidden;
+    display: inline-block;
+    animation: stroka  10s linear infinite;
+    display: flex;
+}
+
+.stroka1-txt {
+    width: max-content;
+    font-size: 144px;
+    color: #263242;
+    padding-right: 100px;
+}
+
+.title1 {
+    width: 2611px;
+    height: 782px;
+    transform: rotate(-0.985deg);
+    font-family: 'MonsieurLaDoulaise';
+    position: absolute;
+    top: 175px;
+    left: -262px;
+    color: rgba(149, 90, 104, 0.24);
+    font-size: 672.205px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -33.61px;
+    z-index: 0;
+}
+
+.title2 {
+    width: 2055px;
+    height: 525px;
+    font-family: 'MonsieurLaDoulaise';
+    position: absolute;
+    top: 309px;
+    left: -16px;
+    color: #263242;
+    font-size: 537.764px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -26.888px;
+    z-index: 1;
+}
+
+.face1 {
+    width: 608px;
+    height: 828px;
+    position: absolute;
+    top: 200px;
+    left: 645px;
+    overflow: hidden;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: 2;
+    transition: opacity 1.5s ease-in-out;
+    opacity: 0;
+}
+
+.face1.active {
+    opacity: 1;
+}
+
+.zakaz {
+    width: 289.048px;
+    height: 79.32px;
+    background-color: #fff;
+    font-family: 'JetBrainsMono';
+    color: #263242;
+    border: none;
+    font-size: 53.776px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    letter-spacing: -2.689px;
+    position: absolute;
+    bottom: 100px;
+    left: 793px;
+    cursor: pointer;
+    z-index: 3;
+}
+
+.section2 {
+    max-width: 1920px;
+    height: 1408px;
+    background: #FFF;
+    overflow: hidden;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.choosetitle {
+    width: 2055.604px;
+    height: 993.88px;
+    transform: rotate(-29.551deg);
+    color: rgba(250, 173, 191, 0.24);
+    font-family: 'MonsieurLaDoulaise';
+    font-size: 672.205px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -33.61px;
+    position: absolute;
+    bottom: 129px;
+    left: 225px;
+}
+
+.choosetitle1 {
+    color: #89AB4A;
+    font-family: 'JetBrainsMono';
+    font-size: 53.776px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    letter-spacing: -2.689px;
+    position: absolute;
+    top: 56px;
+    left: 129px;
+}
+
+.mainlichiko {
+    width: 483.988px;
+    height: 637.251px;
+    flex-shrink: 0;
+    background-image: url(../img/lichiko4.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 300px;
+    left: 225px;
+}
+
+.mainlichiko_2 {
+    width: 483.988px;
+    height: 637.251px;
+    flex-shrink: 0;
+    background-image: url(../img/lichiko3.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 300px;
+    left: 225px;
+}
+
+.mainlichiko_3 {
+    width: 483.988px;
+    height: 637.251px;
+    flex-shrink: 0;
+    background-image: url(../img/lichiko2.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 300px;
+    left: 225px;
+}
+
+.mainlichiko_4 {
+    width: 483.988px;
+    height: 637.251px;
+    flex-shrink: 0;
+    background-image: url(../img/lichiko1.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 300px;
+    left: 225px;
+}
+
+.ushko {
+    width: 16.055px;
+    height: 140px;
+    background-image: url(../img/uho.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 582px;
+    left: 225px;
+}
+
+.uhotxt {
+    font-family: 'JetBrainsMono';
+    font-size: 40.332px;
+    letter-spacing: -2.017px;
+    color: #89AB4A;
+    position: absolute;
+    left: -90px;
+}
+
+.glazik {
+    width: 173.429px;
+    height: 173.429px;
+    background-image: url(../img/glaz.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 566px;
+    left: 495px;
+}
+
+.glaziktxt {
+    font-family: 'JetBrainsMono';
+    font-size: 40.332px;
+    letter-spacing: -2.017px;
+    color: #89AB4A;
+    position: absolute;
+    top: 120px;
+    left: 190px;
+}
+
+.lichiko {
+    width: 415.425px;
+    height: 47.736px;
+    background-image: url(../img/face.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 890px;
+    left: 266px;
+}
+
+.lichikotxt {
+    font-family: 'JetBrainsMono';
+    font-size: 40.332px;
+    letter-spacing: -2.017px;
+    color: #89AB4A;
+    position: absolute;
+    top: 55px;
+    left: 370px;
+}
+
+.lichiko_1 {
+    width: 403.323px;
+    height: 403.323px;
+    background-image: url(../img/knopka1.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'JetBrainsMono Regular';
+    color: #89AB4A;
+    font-size: 53.776px;
+    font-weight: 400;
+    letter-spacing: -2.689px;
+    padding-left: 300px;
+    padding-top: 300px;
+    position: absolute;
+    top: 225px;
+    left: 931px;
+    cursor: pointer;
+}
+
+.lichiko_2 {
+    width: 403.323px;
+    height: 403.323px;
+    background-image: url(../img/knopka2.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'JetBrainsMono Regular';
+    color: #89AB4A;
+    font-size: 53.776px;
+    font-weight: 400;
+    letter-spacing: -2.689px;
+    padding-left: 300px;
+    padding-top: 300px;
+    position: absolute;
+    top: 225px;
+    left: 1400px;
+    cursor: pointer;
+}
+
+.lichiko_3 {
+    width: 403.323px;
+    height: 403.323px;
+    background-image: url(../img/knopka3.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'JetBrainsMono Regular';
+    color: #89AB4A;
+    font-size: 53.776px;
+    font-weight: 400;
+    letter-spacing: -2.689px;
+    padding-left: 300px;
+    padding-top: 300px;
+    position: absolute;
+    top: 721px;
+    left: 931px;
+    cursor: pointer;
+}
+
+.lichiko_4 {
+    width: 403.323px;
+    height: 403.323px;
+    background-image: url(../img/knopka4.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'JetBrainsMono Regular';
+    color: #89AB4A;
+    font-size: 53.776px;
+    font-weight: 400;
+    letter-spacing: -2.689px;
+    padding-left: 300px;
+    padding-top: 300px;
+    position: absolute;
+    top: 721px;
+    left: 1400px;
+    cursor: pointer;
+}
+
+.stroka2 {
+    width: max-content;
+    height: 175px;
+    overflow: hidden;
+    display: inline-block;
+    animation: stroka  10s linear infinite;
+    display: flex;
+    background-color: #FAADBF;
+    position: absolute;
+    top: 1240px
+}
+
+.stroka2-txt {
+    width: max-content;
+    font-size: 144px;
+    color: #ffffff;
+    padding-right: 100px;
+    overflow: hidden;
+    top: 1240px
+}
+
+.section3 {
+    max-width: 1920px;
+    height: 1208px;
+    background: #263242;
+    overflow: hidden;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.title3 {
+    width: 2055.604px;
+    height: 993.88px;
+    transform: rotate(37.125deg);
+    flex-shrink: 0;
+    color: rgba(137, 171, 74, 0.24);
+    font-family: 'MonsieurLaDoulaise';
+    font-size: 672.205px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -33.61px;
+    position: absolute;
+    top: 402px;
+    right: 204px;
+}
+
+.korzinatitle {
+    width: 452px;
+    height: 69px;
+    flex-shrink: 0;
+    color: #FAADBF;
+    font-family: 'JetBrainsMono';
+    font-size: 53.776px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -2.689px;
+    position: absolute;
+    top: 76px;
+    left: 139px;
+}
+
+.poloska {
+    width: 489.366px;
+    height: 44.386px;
+    position: absolute;
+    top: 123px;
+    left: 128px;
+}
+
+.korz {
+    position: absolute;
+    z-index: 3;
+    cursor: grab;
+} 
+
+.glaz1{
+    width: 221.828px;
+    top: 250px;
+    left: 80px;
+    animation: korzinka 1.5s ease-in-out infinite;
+}
+
+.nosik1 {
+    width: 160.01px;
+    top: 356px;
+    left: 330px;
+    animation: korzinka2 1.5s ease-in-out infinite;
+}
+
+.ushko1 {
+    width: 186.859px;
+    top: 142px;
+    left: 548px;
+    animation: korzinka 1.5s ease-in-out infinite;
+}
+
+.glaz2{
+    width: 159.985px;
+    top: 229px;
+    left: 818px;
+    animation: korzinka2 1.5s ease-in-out infinite;
+}
+
+.gubki1{
+    width: 233.177px;
+    top: 247px;
+    right: 609px;
+    animation: korzinka 1.5s ease-in-out infinite;
+}
+
+.gubki2 {
+    width: 251.005px;
+    top: 547px;
+    left: 76px;
+    animation: korzinka2 1.5s ease-in-out infinite;
+}
+
+.gubki3{
+    width: 166.663px;
+    top: 657px;
+    left: 350px;
+    animation: korzinka 1.5s ease-in-out infinite;
+}
+
+.glaz3 {
+    width: 205.88px;
+    top: 563px;
+    left: 564px;
+    animation: korzinka2 1.5s ease-in-out infinite;
+}
+
+.ushko2{
+    width: 136.777px;
+    bottom: 153px;
+    left: 78px;
+    animation: korzinka 1.5s ease-in-out infinite;
+}
+
+.glaz4 {
+    width: 159.985px;
+    bottom: 103px;
+    left: 297px;
+    animation: korzinka2 1.5s ease-in-out infinite;
+}
+
+.nosik2 {
+    width: 141.163px;
+    bottom: 141px;
+    left: 576px;
+    animation: korzinka 1.5s ease-in-out infinite;
+}
+
+.korzina {
+    width: 1307.676px;
+    position: absolute;
+    bottom: 15px;
+    right: 2px;
+    pointer-events: none;
+    z-index: 1;
+}
+
+.check {
+    color: #FAADBF;
+    font-family: "JetBrainsMono";
+    font-size: 40.332px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    letter-spacing: -2.017px;
+    position: absolute;
+    display: flex;
+    flex-direction: row-reverse;
+    position: absolute;
+}
+
+.checkcheck{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: 5.378px solid #FAADBF;
+    background: rgba(217, 217, 217, 0.00);
+    width: 60.498px;
+    height: 60.498px;
+    position: absolute;
+}
+
+.checkcheck:checked{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: 5.378px solid #FAADBF;
+    background: #FAADBF;
+    width: 60.498px;
+    height: 60.498px;
+    position: absolute;
+}
+
+.check1{
+    top: 95px;
+    right: 211px;
+}
+
+.ch1, .ch1:checked {
+    top: 92px;
+    right: 128px;
+}
+
+.check2{
+    top: 174px;
+    right: 211px;
+}
+
+.ch2, .ch2:checked {
+    top: 172px;
+    right: 128px;
+}
+
+.check3{
+    top: 252px;
+    right: 211px;
+}
+
+.ch3, .ch3:checked {
+    top: 251px;
+    right: 128px;
+}
+
+.check4{
+    top: 330px;
+    right: 211px;
+}
+
+.ch4, .ch4:checked {
+    top: 330px;
+    right: 128px;
+}
+
+.dontforget {
+    width: 701.782px;
+    height: 106.619px;
+    transform: rotate(-8.839deg);
+    background: #FAADBF;
+    position: absolute;
+    bottom: 117px;
+    right: 129px;
+    z-index: 3;
+    transition: all 3s ease-in-out;
+    animation: dontforgett 3s ease-in-out infinite;
+}
+
+.dontforgettitle {
+    color: #FFF;
+    font-family: "JetBrainsMono";
+    font-size: 53.776px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    letter-spacing: -2.689px;
+    position: absolute;
+    top: 13px;
+    left: 5px;
+}
+
+.section4 {
+    max-width: 1920px;
+    height: 1365px;
+    background: #FAADBF;
+    overflow: hidden;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.title4 {
+    width: 1340px;
+    height: 993.88px;
+    transform: rotate(73.553deg);
+    flex-shrink: 0;
+    color: rgba(38, 50, 66, 0.34);
+    font-family: 'MonsieurLaDoulaise';
+    font-size: 672.205px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -33.61px;
+    position: absolute;
+    top: 198px;
+    left: -300px;
+    z-index: 0;
+}
+
+.title5 {
+    width: 1340px;
+    height: 993.88px;
+    transform: rotate(43.38deg);
+    flex-shrink: 0;
+    color: rgba(38, 50, 66, 0.34);
+    font-family: 'MonsieurLaDoulaise';
+    font-size: 672.205px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -33.61px;
+    position: absolute;
+    top: -160px;
+    left: 375px;
+    z-index: 0;
+}
+
+.title6 {
+    width: 1340px;
+    height: 993.88px;
+    transform: rotate(-167.451deg);
+    flex-shrink: 0;
+    color: rgba(38, 50, 66, 0.34);
+    font-family: 'MonsieurLaDoulaise';
+    font-size: 672.205px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -33.61px;
+    position: absolute;
+    top: 131px;
+    right: -231px;
+    z-index: 0;
+}
+
+.memorytitle {
+    width: 880.589px;
+    height: 104.864px;
+    flex-shrink: 0;
+    color: #FAADBF;
+    font-family: 'JetBrainsMono';
+    font-size: 53.776px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    letter-spacing: -2.689px;
+    position: absolute;
+    top: 76px;
+    left: 133px;
+    color: #FFF;
+    z-index: 2;
+}
+
+.memorybase {
+    width: 1380.71px;
+    height: auto;
+    background: #263242;
+    z-index: 1;
+    position: absolute;
+    top: 188px;
+    left: 293px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(4, 263.505px);
+    gap: 26px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+
+.card {
+    height: 262.16px;
+    width: 263.505px;
+    perspective: 1000px;
+    cursor: pointer;
+    padding-left: 115px;
+  }
+  
+  .card-inner {
+    height: 262.16px;
+    width: 263.505px;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+    position: relative;
+  }
+  
+  .card.flipped .card-inner {
+    transform: rotateY(180deg);
+  }
+  
+  .card-front, .card-back {
+    height: 262.16px;
+    width: 263.505px;
+    position: absolute;
+    backface-visibility: hidden;
+  }
+  
+  .card-front {
+    background-color: #89AB4A;
+  }
+  
+  .card-back {
+    background-size: cover;
+    background-position: center;
+    transform: rotateY(180deg);
+  }
+
+  .stroka3 {
+    width: max-content;
+    height: 175px;
+    overflow: hidden;
+    display: inline-block;
+    animation: stroka  10s linear infinite;
+    display: flex;
+    background-color: #ffffff;
+    position: absolute;
+    top: 1192px
+}
+
+.stroka3-txt {
+    width: max-content;
+    font-size: 144px;
+    color: #263242;;
+    padding-right: 100px;
+    overflow: hidden;
+    top: 1192px
+}
+
+.section5 {
+    max-width: 1920px;
+    height: 1071.495px;
+    background: #89AB4A;
+    overflow: hidden;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.title7 {
+    width: 2055.604px;
+    height: 993.88px;
+    transform: rotate(92.303deg);
+    flex-shrink: 0;
+    color: rgba(250, 173, 191, 0.24);
+    font-family: 'MonsieurLaDoulaise';
+    font-size: 672.205px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -33.61px;
+    position: absolute;
+    top: 297px;
+    left: -907px;
+    z-index: 0;
+}
+
+.title8 {
+    width: 1903.194px;
+    height: 1237.248px;
+    transform: rotate(46.786deg);
+    flex-shrink: 0;
+    color: rgba(250, 173, 191, 0.24);
+    font-family: 'MonsieurLaDoulaise';
+    font-size: 672.205px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -33.61px;
+    position: absolute;
+    top: 246px;
+    right: -706px;
+    z-index: 0;
+}
+
+.lipsbutton {
+    cursor: pointer;
+    z-index: 1;
+    width: 1273.157px;
+    height: 396.601px;
+    background: #FFF;
+    border: none;
+    position: absolute;
+    top: 337px;
+    left: 319px;
+    color: #000;
+    text-align: center;
+    font-family: "JetBrainsMono";
+    font-size: 134.441px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    letter-spacing: -6.722px;
+}
+
+.gublast {
+    width: 369.853px;
+    height: 471.039px;
+    position: absolute;
+    z-index: 2;
+    transition: opacity 0.4s ease-in-out;
+    pointer-events: none;
+}
+
+.gubigubi1 {
+    transform: rotate(132.495deg);
+    top: 24px;
+    left: 89px;
+}
+
+.gubigubi2 {
+    transform: rotate(159.485deg);
+    top: 58px;
+    left: 503px;
+}
+
+.gubigubi3 {
+    transform: rotate(-46.694deg);
+    top: 28px;
+    left: 903px;
+}
+
+.gubigubi4 {
+    transform: rotate(-149.757deg);
+    top: 101px;
+    left: 1283px;
+}
+
+.gubigubi5 {
+    transform: rotate(31.866deg);
+    top: 232px;
+    left: 701px;
+}
+
+.gubigubi6 {
+    transform: rotate(32.945deg);
+    top: 411px;
+    left: 102px;
+}
+
+.gubigubi7 {
+    transform: rotate(-147.105deg);
+    top: 550px;
+    left: 455px;
+}
+
+.gubigubi8 {
+    transform: rotate(-95.746deg);
+    top: 614px;
+    left: 931px;
+}
+
+.gubigubi9 {
+    transform: rotate(-36.327deg);
+    top: 502px;
+    left: 1193px;
+}
+
+
+
+
+
+

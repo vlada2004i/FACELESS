@@ -1,0 +1,2252 @@
+@media screen and (min-width: 1368px) and (max-width: 1440px) {
+    .section1 {
+        max-width: 1440px;
+        height: 900px;
+    }
+    .stroka1 {
+        height: 121px;
+    }
+    .stroka1-txt {
+        font-size: 107px;
+    }
+    .title1 {
+        width: 1942.309px;
+        height: 581.722px;
+        top: 130px;
+        left: -200px;
+        font-size: 500px;
+        letter-spacing: -25px;
+    }
+    .title2 {
+        width: 1529px;
+        height: 515px;
+        top: 230px;
+        left: -12px;
+        font-size: 400px;
+        letter-spacing: -20px;
+    }
+    .face1 {
+        width: 436px;
+        height: 504px;
+        top: 186px;
+        left: 480px;
+    }
+    .zakaz {
+        width: 215px;
+        height: 59px;
+        font-size: 40px;
+        letter-spacing: -2px;
+        bottom: 93px;
+        left: 610px;
+    }
+    .section2 {
+        max-width: 1440px;
+        height: 1041px;
+    }
+    .choosetitle {
+        width: 1529px;
+        height: 739.268px;
+        font-size: 500px;
+        letter-spacing: -25px;
+        bottom: 148px;
+        left: 168px;
+    } 
+    .choosetitle1 {
+        font-size: 40px;
+        letter-spacing: -2px;
+        top: 42px;
+        left: 96px;
+    }
+    .mainlichiko {
+        width: 360px;
+        height: 474px;
+        top: 223px;
+        left: 168px;
+    }
+    .mainlichiko_2 {
+        width: 360px;
+        height: 474px;
+        top: 223px;
+        left: 168px;
+    }
+    .mainlichiko_3 {
+        width: 360px;
+        height: 474px;
+        top: 223px;
+        left: 168px;
+    }
+    .mainlichiko_4 {
+        width: 360px;
+        height: 474px;
+        top: 223px;
+        left: 168px;
+    }
+    .ushko {
+        width: 12px;
+        height: 104px;
+        top: 432px;
+        left: 168px;
+    }
+    .uhotxt {
+        font-size: 30px;
+        letter-spacing: -1.5px;
+        left: -90px;
+    }
+    .glazik {
+        width: 129px;
+        height: 129px;
+        top: 421px;
+        left: 368px;
+    }    
+    .glaziktxt {
+        font-size: 30px;
+        letter-spacing: -1.5px;
+        top: 100px;
+        left: 140px;
+    }  
+    .lichiko {
+        width: 309.002px;
+        height: 33.015px;
+        top: 707px;
+        left: 198px;
+    }
+    .lichikotxt {
+        font-size: 30px;
+        letter-spacing: -1.5px;
+        top: 45px;
+        left: 270px;
+    } 
+    .lichiko_1 {
+        width: 300px;
+        height: 300px;
+        font-size: 40px;
+        font-weight: 400;
+        letter-spacing: -2px;
+        padding-left: 240px;
+        padding-top: 240px;
+        top: 168px;
+        left: 693px;
+    }
+    .lichiko_2 {
+        width: 300px;
+        height: 300px;
+        font-size: 40px;
+        font-weight: 400;
+        letter-spacing: -2px;
+        padding-left: 240px;
+        padding-top: 240px;
+        top: 168px;
+        left: 1042px;
+    }
+    .lichiko_3 {
+        width: 300px;
+        height: 300px;
+        font-size: 40px;
+        font-weight: 400;
+        letter-spacing: -2px;
+        padding-left: 240px;
+        padding-top: 240px;
+        top: 537px;
+        left: 688px;
+    }
+    .lichiko_4 {
+        width: 300px;
+        height: 300px;
+        font-size: 40px;
+        font-weight: 400;
+        letter-spacing: -2px;
+        padding-left: 240px;
+        padding-top: 240px;
+        top: 537px;
+        left: 1042px;
+    }
+    .stroka2 {
+        height: 121px;
+        top: 920px
+    }
+    .stroka2-txt {
+        font-size: 107px;
+        top: 920px
+    }
+    
+    .section3 {
+        max-width: 1440px;
+        height: 898px;
+    }
+    .title3 {
+        width: 1529px;
+        height: 739.268px;
+        font-size: 500px;
+        letter-spacing: -25px;
+        top: 191px;
+        right: 171px;
+    }
+    .korzinatitle {
+        height: 62px;
+        font-size: 40px;
+        letter-spacing: -2px;
+        top: 57px;
+        left: 103px;
+    }
+    .poloska {
+        width: 364px;
+        height: 33.015px;
+        top: 90px;
+        left: 85px;
+    }  
+    .glaz1{
+        width: 165px;
+        top: 178px;
+        left: 45px;
+    }
+    .nosik1 {
+        width: 101.61px;
+        top: 265px;
+        left: 245px;
+    } 
+    .ushko1 {
+        width: 138.99px;
+        top: 136px;
+        left: 408px;
+    }
+    .glaz2{
+        width: 119px;
+        top: 171px;
+        left: 609px;
+    } 
+    .gubki1{
+        width: 173.442px;
+        top: 183px;
+        right: 453px;
+    }
+    .gubki2 {
+        width: 153.812px;
+        top: 419px;
+        left: 73px;
+    }
+    .gubki3{
+        width: 123.967px;
+        top: 478px;
+        left: 251px;
+    }
+    .glaz3 {
+        width: 153px;
+        top: 419px;
+        left: 420px;
+    }  
+    .ushko2{
+        width: 101.738px;
+        bottom: 113px;
+        left: 58px;
+    }
+    .glaz4 {
+        width: 119px;
+        bottom: 77px;
+        left: 221px;
+    }
+    .nosik2 {
+        width: 105px;
+        bottom: 105px;
+        left: 429px;
+    }
+    .korzina {
+        width: 972.676px;
+        bottom: 15px;
+        right: 2px;
+    }  
+    .check {
+        font-size: 30px;
+        letter-spacing: -1.5px;
+    }
+    .checkcheck{
+        border: 4px solid #FAADBF;
+        width: 45px;
+        height: 45px;
+    }
+    .checkcheck:checked{
+        background: #FAADBF;
+        border: 4px solid #FAADBF;
+        width: 45px;
+        height: 45px;
+    }
+    .check1{
+        top: 71px;
+        right: 165px;
+    }
+    .ch1, .ch1:checked {
+        top: 69px;
+        right: 105px;
+    }
+    .check2{
+        top: 130px;
+        right: 165px;
+    } 
+    .ch2, .ch2:checked {
+        top: 128px;
+        right: 105px;
+    }
+    .check3{
+        top: 188px;
+        right: 165px;
+    }
+    .ch3, .ch3:checked {
+        top: 188px;
+        right: 105px;
+    }
+    .check4{
+        top: 246px;
+        right: 165px;
+    }
+    .ch4, .ch4:checked {
+        top: 246px;
+        right: 105px;
+    }
+    .dontforget {
+        width: 522px;
+        height: 79.305px;
+        bottom: 72px;
+        right: 96px;
+    }
+    .dontforgettitle {
+        font-size: 40px;
+        letter-spacing: -2px;
+        top: 13px;
+        left: 5px;
+    }
+    .section4 {
+        max-width: 1440px;
+        height: 1015px;
+    }
+    
+    .title4 {
+        width: 996.719px;
+        height: 739.268px;
+        font-size: 500px;
+        letter-spacing: -25px;
+        top: 178px;
+        left: -220px;
+    }  
+    .title5 {
+        width: 996.719px;
+        height: 739.268px;
+        font-size: 500px;
+        letter-spacing: -25px;
+        top: -80px;
+        left: 375px;
+    }
+    .title6 {
+        width: 996.719px;
+        height: 739.268px;
+        font-size: 500px;
+        letter-spacing: -25px;
+        top: 158px;
+        right: -172px;
+    }
+    .memorytitle {
+        width: 241px;
+        height: 52px;
+        font-size: 40px;
+        letter-spacing: -2px;
+        top: 57px;
+        left: 99px;
+    }
+    .memorybase {
+        width: 1027px;
+        top: 140px;
+        left: 218px;
+        grid-template-columns: repeat(4, 195px);
+        gap: 26px;
+        padding: 20px;
+    }
+    .card {
+        width: 195px;
+        height: 196px;
+        padding-left: 75px;
+      }
+      .card-inner {
+        width: 195px;
+        height: 196px;
+      }
+      .card-front, .card-back {
+        width: 195px;
+        height: 196px;
+      }
+      .stroka3 {
+        height: 121px;
+        top: 894px
+    }
+    .stroka3-txt {
+        font-size: 107.361px;
+        top: 887px
+    }
+    .section5 {
+        max-width: 1440px;
+        height: 797px;
+    }
+    .title7 {
+        width: 1529px;
+        height: 739.268px;
+        font-size: 500px;
+        letter-spacing: -25px;
+        top: 221px;
+        left: -800px;
+    }
+    .title8 {
+        width: 1415.634px;
+        height: 920.29px;
+        font-size: 500px;
+        letter-spacing: -25px;
+        top: 183px;
+        right: -606px;
+    }
+    .lipsbutton {
+        width: 947px;
+        height: 295px;
+        top: 251px;
+        left: 227px;
+        font-size: 100px;
+        letter-spacing: -5px;
+    }
+    .gublast {
+        width: 275.104px;
+        height: 350.368px;
+    }
+    .gubigubi1 {
+        top: 18px;
+        left: 67px;
+    }
+    .gubigubi2 {
+        top: 21px;
+        left: 346px;
+    }
+    .gubigubi3 {
+        top: 12px;
+        left: 679px;
+    }
+    .gubigubi4 {
+        top: 75px;
+        left: 954px;
+    }   
+    .gubigubi5 {
+        top: 172px;
+        left: 522px;
+    }
+    .gubigubi6 {
+        top: 306px;
+        left: 77px;
+    }
+    .gubigubi7 {
+        top: 409px;
+        left: 338px;
+    }
+    .gubigubi8 {
+        top: 457px;
+        left: 703px;
+    }
+    .gubigubi9 {
+        top: 373px;
+        left: 887px;
+    } 
+    }
+
+
+
+    @media screen and (min-width: 1281px) and (max-width: 1367px) {
+        .section1 {
+            max-width: 1366px;
+            height: 858px;
+        }
+        .stroka1 {
+            height: 115px;
+        }
+        .stroka1-txt {
+            font-size: 102px;
+        }
+        .title1 {
+            width: 1651.521px;
+            height: 554.532px;
+            top: 123px;
+            left: -185px;
+            font-size: 476.629px;
+            letter-spacing: -23.831px;
+        }
+        .title2 {
+            width: 1457.531px;
+            height: 372.724px;
+            top: 220px;
+            left: -12px;
+            font-size: 381.303px;
+            letter-spacing: -20px;
+        }
+        .face1 {
+            width: 416px;
+            height: 483px;
+            top: 176px;
+            left: 457px;
+        }
+        .zakaz {
+            width: 204.95px;
+            height: 56.242px;
+            font-size: 38.13px;
+            letter-spacing: -1.9px;
+            bottom: 91px;
+            left: 562px;
+        }
+        .section2 {
+            max-width: 1366px;
+            height: 1041px;
+        }
+        .choosetitle {
+            width: 1529px;
+            height: 739.268px;
+            font-size: 500px;
+            letter-spacing: -25px;
+            bottom: 298px;
+            left: 228px;
+        } 
+        .choosetitle1 {
+            font-size: 40px;
+            letter-spacing: -2px;
+            top: 42px;
+            left: 96px;
+        }
+        .mainlichiko {
+            width: 360px;
+            height: 474px;
+            top: 223px;
+            left: 168px;
+        }
+        .mainlichiko_2 {
+            width: 360px;
+            height: 474px;
+            top: 223px;
+            left: 168px;
+        }
+        .mainlichiko_3 {
+            width: 360px;
+            height: 474px;
+            top: 223px;
+            left: 168px;
+        }
+        .mainlichiko_4 {
+            width: 360px;
+            height: 474px;
+            top: 223px;
+            left: 168px;
+        }
+        .ushko {
+            width: 12px;
+            height: 104px;
+            top: 432px;
+            left: 168px;
+        }
+        .uhotxt {
+            font-size: 30px;
+            letter-spacing: -1.5px;
+            left: -90px;
+        }
+        .glazik {
+            width: 129px;
+            height: 129px;
+            top: 421px;
+            left: 368px;
+        }    
+        .glaziktxt {
+            font-size: 30px;
+            letter-spacing: -1.5px;
+            top: 100px;
+            left: 140px;
+        }  
+        .lichiko {
+            width: 309.002px;
+            height: 33.015px;
+            top: 707px;
+            left: 198px;
+        }
+        .lichikotxt {
+            font-size: 30px;
+            letter-spacing: -1.5px;
+            top: 45px;
+            left: 270px;
+        } 
+        .lichiko_1 {
+            width: 300px;
+            height: 300px;
+            font-size: 40px;
+            font-weight: 400;
+            letter-spacing: -2px;
+            padding-left: 240px;
+            padding-top: 240px;
+            top: 168px;
+            left: 693px;
+        }
+        .lichiko_2 {
+            width: 300px;
+            height: 300px;
+            font-size: 40px;
+            font-weight: 400;
+            letter-spacing: -2px;
+            padding-left: 240px;
+            padding-top: 240px;
+            top: 168px;
+            left: 1042px;
+        }
+        .lichiko_3 {
+            width: 300px;
+            height: 300px;
+            font-size: 40px;
+            font-weight: 400;
+            letter-spacing: -2px;
+            padding-left: 240px;
+            padding-top: 240px;
+            top: 537px;
+            left: 688px;
+        }
+        .lichiko_4 {
+            width: 300px;
+            height: 300px;
+            font-size: 40px;
+            font-weight: 400;
+            letter-spacing: -2px;
+            padding-left: 240px;
+            padding-top: 240px;
+            top: 537px;
+            left: 1042px;
+        }
+        .stroka2 {
+            height: 115px;
+            top: 930px
+        }
+        .stroka2-txt {
+            font-size: 102px;
+            top: 930px
+        }
+        
+        .section3 {
+            max-width: 1366px;
+            height: 898px;
+        }
+        .title3 {
+            width: 1529px;
+            height: 739.268px;
+            font-size: 500px;
+            letter-spacing: -25px;
+            top: 191px;
+            right: 91px;
+        }
+        .korzinatitle {
+            height: 62px;
+            font-size: 40px;
+            letter-spacing: -2px;
+            top: 57px;
+            left: 103px;
+        }
+        .poloska {
+            width: 364px;
+            height: 33.015px;
+            top: 90px;
+            left: 85px;
+        }  
+        .glaz1{
+            width: 165px;
+            top: 178px;
+            left: 45px;
+        }
+        .nosik1 {
+            width: 101.61px;
+            top: 265px;
+            left: 245px;
+        } 
+        .ushko1 {
+            width: 138.99px;
+            top: 136px;
+            left: 408px;
+        }
+        .glaz2{
+            width: 119px;
+            top: 171px;
+            left: 609px;
+        } 
+        .gubki1{
+            width: 173.442px;
+            top: 183px;
+            right: 453px;
+        }
+        .gubki2 {
+            width: 153.812px;
+            top: 419px;
+            left: 73px;
+        }
+        .gubki3{
+            width: 123.967px;
+            top: 478px;
+            left: 251px;
+        }
+        .glaz3 {
+            width: 153px;
+            top: 419px;
+            left: 420px;
+        }  
+        .ushko2{
+            width: 101.738px;
+            bottom: 113px;
+            left: 58px;
+        }
+        .glaz4 {
+            width: 119px;
+            bottom: 77px;
+            left: 221px;
+        }
+        .nosik2 {
+            width: 105px;
+            bottom: 105px;
+            left: 429px;
+        }
+        .korzina {
+            width: 972.676px;
+            bottom: 15px;
+            right: 2px;
+        }  
+        .check {
+            font-size: 30px;
+            letter-spacing: -1.5px;
+        }
+        .checkcheck{
+            border: 4px solid #FAADBF;
+            width: 45px;
+            height: 45px;
+        }
+        .checkcheck:checked{
+            background: #FAADBF;
+            border: 4px solid #FAADBF;
+            width: 45px;
+            height: 45px;
+        }
+        .check1{
+            top: 71px;
+            right: 165px;
+        }
+        .ch1, .ch1:checked {
+            top: 69px;
+            right: 105px;
+        }
+        .check2{
+            top: 130px;
+            right: 165px;
+        } 
+        .ch2, .ch2:checked {
+            top: 128px;
+            right: 105px;
+        }
+        .check3{
+            top: 188px;
+            right: 165px;
+        }
+        .ch3, .ch3:checked {
+            top: 188px;
+            right: 105px;
+        }
+        .check4{
+            top: 246px;
+            right: 165px;
+        }
+        .ch4, .ch4:checked {
+            top: 246px;
+            right: 105px;
+        }
+        .dontforget {
+            width: 522px;
+            height: 79.305px;
+            bottom: 72px;
+            right: 96px;
+        }
+        .dontforgettitle {
+            font-size: 40px;
+            letter-spacing: -2px;
+            top: 13px;
+            left: 5px;
+        }
+        .section4 {
+            max-width: 1366px;
+            height: 1015px;
+        }
+        
+        .title4 {
+            width: 996.719px;
+            height: 739.268px;
+            font-size: 500px;
+            letter-spacing: -25px;
+            top: 178px;
+            left: -220px;
+        }  
+        .title5 {
+            width: 996.719px;
+            height: 739.268px;
+            font-size: 500px;
+            letter-spacing: -25px;
+            top: -80px;
+            left: 375px;
+        }
+        .title6 {
+            width: 996.719px;
+            height: 739.268px;
+            font-size: 500px;
+            letter-spacing: -25px;
+            top: 158px;
+            right: -172px;
+        }
+        .memorytitle {
+            width: 241px;
+            height: 52px;
+            font-size: 40px;
+            letter-spacing: -2px;
+            top: 57px;
+            left: 99px;
+        }
+        .memorybase {
+            width: 1027px;
+            top: 133px;
+            left: 207px;
+            grid-template-columns: repeat(4, 195px);
+            gap: 26px;
+            padding: 20px;
+        }
+        .card {
+            width: 195px;
+            height: 196px;
+            padding-left: 75px;
+          }
+          .card-inner {
+            width: 195px;
+            height: 196px;
+          }
+          .card-front, .card-back {
+            width: 195px;
+            height: 196px;
+          }
+          .stroka3 {
+            height: 121px;
+            top: 894px
+        }
+        .stroka3-txt {
+            font-size: 102px;
+            top: 887px
+        }
+        .section5 {
+            max-width: 1366px;
+            height: 797px;
+        }
+        .title7 {
+            width: 1529px;
+            height: 739.268px;
+            font-size: 500px;
+            letter-spacing: -25px;
+            top: 221px;
+            left: -800px;
+        }
+        .title8 {
+            width: 1415.634px;
+            height: 920.29px;
+            font-size: 500px;
+            letter-spacing: -25px;
+            top: 183px;
+            right: -606px;
+        }
+        .lipsbutton {
+            width: 947px;
+            height: 295px;
+            top: 251px;
+            left: 227px;
+            font-size: 100px;
+            letter-spacing: -5px;
+        }
+        .gublast {
+            width: 275.104px;
+            height: 350.368px;
+        }
+        .gubigubi1 {
+            top: 18px;
+            left: 67px;
+        }
+        .gubigubi2 {
+            top: 21px;
+            left: 346px;
+        }
+        .gubigubi3 {
+            top: 12px;
+            left: 679px;
+        }
+        .gubigubi4 {
+            top: 75px;
+            left: 954px;
+        }   
+        .gubigubi5 {
+            top: 172px;
+            left: 522px;
+        }
+        .gubigubi6 {
+            top: 306px;
+            left: 77px;
+        }
+        .gubigubi7 {
+            top: 409px;
+            left: 338px;
+        }
+        .gubigubi8 {
+            top: 457px;
+            left: 703px;
+        }
+        .gubigubi9 {
+            top: 373px;
+            left: 887px;
+        } 
+        }
+
+        @media screen and (min-width: 1026px) and (max-width: 1280px) {
+            .section1 {
+                max-width: 1280px;
+                height: 803px;
+            }
+            .stroka1 {
+                height: 115px;
+            }
+            .stroka1-txt {
+                font-size: 95px;
+            }
+            .title1 {
+                width: 1733.775px;
+                height: 519.266px;
+                top: 116px;
+                left: -174px;
+                font-size: 476.629px;
+                letter-spacing: -23.831px;
+            }
+            .title2 {
+                width: 1364.84px;
+                height: 349.021px;
+                top: 205px;
+                left: -10px;
+                font-size: 357.054px;
+                letter-spacing: -17.853px;
+            }
+            .face1 {
+                width: 416px;
+                height: 483px;
+                top: 166px;
+                left: 428px;
+            }
+            .zakaz {
+                width: 204.95px;
+                height: 56.242px;
+                font-size: 38.13px;
+                letter-spacing: -1.9px;
+                bottom: 87px;
+                left: 527px;
+            }
+            .section2 {
+                max-width: 1280px;
+                height: 935px;
+            }
+            .choosetitle {
+                width: 1529px;
+                height: 739.268px;
+                font-size: 500px;
+                letter-spacing: -25px;
+                bottom: 298px;
+                left: 228px;
+            } 
+            .choosetitle1 {
+                font-size: 35.705px;
+                letter-spacing: -2px;
+                top: 42px;
+                left: 96px;
+            }
+            .mainlichiko {
+                width: 360px;
+                height: 474px;
+                top: 223px;
+                left: 168px;
+            }
+            .mainlichiko_2 {
+                width: 360px;
+                height: 474px;
+                top: 223px;
+                left: 168px;
+            }
+            .mainlichiko_3 {
+                width: 360px;
+                height: 474px;
+                top: 223px;
+                left: 168px;
+            }
+            .mainlichiko_4 {
+                width: 360px;
+                height: 474px;
+                top: 223px;
+                left: 168px;
+            }
+            .ushko {
+                width: 12px;
+                height: 104px;
+                top: 432px;
+                left: 168px;
+            }
+            .uhotxt {
+                font-size: 30px;
+                letter-spacing: -1.5px;
+                left: -90px;
+            }
+            .glazik {
+                width: 129px;
+                height: 129px;
+                top: 421px;
+                left: 368px;
+            }    
+            .glaziktxt {
+                font-size: 30px;
+                letter-spacing: -1.5px;
+                top: 100px;
+                left: 140px;
+            }  
+            .lichiko {
+                width: 309.002px;
+                height: 33.015px;
+                top: 657px;
+                left: 198px;
+            }
+            .lichikotxt {
+                font-size: 30px;
+                letter-spacing: -1.5px;
+                top: 45px;
+                left: 270px;
+            } 
+            .lichiko_1 {
+                width: 267.791px;
+                height: 267.791px;
+                font-size: 40px;
+                font-weight: 400;
+                letter-spacing: -2px;
+                padding-left: 200px;
+                padding-top: 200px;
+                top: 149px;
+                left: 618px;
+            }
+            .lichiko_2 {
+                width: 267.791px;
+                height: 267.791px;
+                font-size: 40px;
+                font-weight: 400;
+                letter-spacing: -2px;
+                padding-left: 200px;
+                padding-top: 200px;
+                top: 149px;
+                left: 930px;
+            }
+            .lichiko_3 {
+                width: 267.791px;
+                height: 267.791px;
+                font-size: 40px;
+                font-weight: 400;
+                letter-spacing: -2px;
+                padding-left: 200px;
+                padding-top: 200px;
+                top: 480px;
+                left: 618px;
+            }
+            .lichiko_4 {
+                width: 267.791px;
+                height: 267.791px;
+                font-size: 40px;
+                font-weight: 400;
+                letter-spacing: -2px;
+                padding-left: 200px;
+                padding-top: 200px;
+                top: 480px;
+                left: 930px;
+            }
+            .stroka2 {
+                height: 115px;
+                top: 821px
+            }
+            .stroka2-txt {
+                font-size: 95px;
+                top: 821px
+            }
+            .section3 {
+                max-width: 1280px;
+                height: 801.587px;
+            }
+            .title3 {
+                width: 1529px;
+                height: 739.268px;
+                font-size: 500px;
+                letter-spacing: -25px;
+                top: 191px;
+                right: 91px;
+            }
+            .korzinatitle {
+                height: 62px;
+                font-size: 35.705px;
+                letter-spacing: -2px;
+                top: 57px;
+                left: 103px;
+            }
+            .poloska {
+                width: 364px;
+                height: 33.015px;
+                top: 90px;
+                left: 85px;
+            }  
+            .glaz1{
+                width: 165px;
+                top: 178px;
+                left: 45px;
+            }
+            .nosik1 {
+                width: 121.61px;
+                top: 265px;
+                left: 245px;
+            } 
+            .ushko1 {
+                width: 138.99px;
+                top: 136px;
+                left: 408px;
+            }
+            .glaz2{
+                width: 119px;
+                top: 171px;
+                left: 609px;
+            } 
+            .gubki1{
+                width: 173.442px;
+                top: 183px;
+                right: 373px;
+            }
+            .gubki2 {
+                width: 153.812px;
+                top: 419px;
+                left: 73px;
+            }
+            .gubki3{
+                width: 123.967px;
+                top: 478px;
+                left: 251px;
+            }
+            .glaz3 {
+                width: 153px;
+                top: 369px;
+                left: 390px;
+            }  
+            .ushko2{
+                width: 151.738px;
+                bottom: 83px;
+                left: 58px;
+            }
+            .glaz4 {
+                width: 119px;
+                bottom: 77px;
+                left: 221px;
+            }
+            .nosik2 {
+                width: 105px;
+                bottom: 105px;
+                left: 429px;
+            }
+            .korzina {
+                width: 868.245px;
+                bottom: 5px;
+                right: -25px;
+            }  
+            .check {
+                font-size: 30px;
+                letter-spacing: -1.5px;
+            }
+            .checkcheck{
+                border: 4px solid #FAADBF;
+                width: 45px;
+                height: 45px;
+            }
+            .checkcheck:checked{
+                background: #FAADBF;
+                border: 4px solid #FAADBF;
+                width: 45px;
+                height: 45px;
+            }
+            .check1{
+                top: 71px;
+                right: 165px;
+            }
+            .ch1, .ch1:checked {
+                top: 69px;
+                right: 105px;
+            }
+            .check2{
+                top: 130px;
+                right: 165px;
+            } 
+            .ch2, .ch2:checked {
+                top: 128px;
+                right: 105px;
+            }
+            .check3{
+                top: 188px;
+                right: 165px;
+            }
+            .ch3, .ch3:checked {
+                top: 188px;
+                right: 105px;
+            }
+            .check4{
+                top: 246px;
+                right: 165px;
+            }
+            .ch4, .ch4:checked {
+                top: 246px;
+                right: 105px;
+            }
+            .dontforget {
+                width: 522px;
+                height: 79.305px;
+                bottom: 72px;
+                right: 96px;
+            }
+            .dontforgettitle {
+                font-size: 40px;
+                letter-spacing: -2px;
+                top: 13px;
+                left: 5px;
+            }
+            .section4 {
+                max-width: 1280px;
+                height: 1015px;
+            }
+            
+            .title4 {
+                width: 996.719px;
+                height: 739.268px;
+                font-size: 500px;
+                letter-spacing: -25px;
+                top: 178px;
+                left: -220px;
+            }  
+            .title5 {
+                width: 996.719px;
+                height: 739.268px;
+                font-size: 500px;
+                letter-spacing: -25px;
+                top: -80px;
+                left: 375px;
+            }
+            .title6 {
+                width: 996.719px;
+                height: 739.268px;
+                font-size: 500px;
+                letter-spacing: -25px;
+                top: 158px;
+                right: -172px;
+            }
+            .memorytitle {
+                width: 241px;
+                height: 52px;
+                font-size: 35.705px;
+                letter-spacing: -2px;
+                top: 57px;
+                left: 99px;
+            }
+            .memorybase {
+                width: 916.737px;
+                top: 124px;
+                left: 195px;
+                grid-template-columns: repeat(4, 174.064px);
+                gap: 18px;
+                padding: 20px;
+            }
+            .card {
+                width: 174.064px;
+                height: 174.957px;
+                padding-left: 75px;
+              }
+              .card-inner {
+                width: 174.064px;
+                height: 174.957px;
+              }
+              .card-front, .card-back {
+                width: 174.064px;
+                height: 174.957px;
+              }
+              .stroka3 {
+                height: 115px;
+                top: 900px
+            }
+            .stroka3-txt {
+                font-size: 95px;
+                top: 890px
+            }
+            .section5 {
+                max-width: 1280px;
+                height: 711px;
+            }
+            .title7 {
+                width: 1529px;
+                height: 739.268px;
+                font-size: 500px;
+                letter-spacing: -25px;
+                top: 221px;
+                left: -800px;
+            }
+            .title8 {
+                width: 1415.634px;
+                height: 920.29px;
+                font-size: 500px;
+                letter-spacing: -25px;
+                top: 183px;
+                right: -606px;
+            }
+            .lipsbutton {
+                width: 845.326px;
+                height: 263.328px;
+                top: 224px;
+                left: 202px;
+                font-size: 89.264px;
+                letter-spacing: -5px;
+            }
+            .gublast {
+                width: 275.104px;
+                height: 350.368px;
+            }
+            .gubigubi1 {
+                top: 18px;
+                left: 67px;
+            }
+            .gubigubi2 {
+                top: 21px;
+                left: 346px;
+            }
+            .gubigubi3 {
+                top: 12px;
+                left: 679px;
+            }
+            .gubigubi4 {
+                top: 75px;
+                left: 954px;
+            }   
+            .gubigubi5 {
+                top: 172px;
+                left: 522px;
+            }
+            .gubigubi6 {
+                top: 306px;
+                left: 77px;
+            }
+            .gubigubi7 {
+                top: 359px;
+                left: 338px;
+            }
+            .gubigubi8 {
+                top: 357px;
+                left: 683px;
+            }
+            .gubigubi9 {
+                top: 373px;
+                left: 887px;
+            } 
+            }
+
+            @media screen and (min-width: 361px) and (max-width: 1024px) {
+                .section1 {
+                    max-width: 1024px;
+                    height: 650px;
+                }
+                .stroka1 {
+                    height: 90px;
+                }
+                .stroka1-txt {
+                    font-size: 77px;
+                }
+                .title1 {
+                    width: 1399.784px;
+                    height: 419.236px;
+                    top: 93px;
+                    left: -140px;
+                    font-size: 360.34px;
+                    letter-spacing: -18.017px;
+                }
+                .title2 {
+                    width: 1101.921px;
+                    height: 281.786px;
+                    top: 165px;
+                    left: -9px;
+                    font-size: 288.272px;
+                    letter-spacing: -14.414px;
+                }
+                .face1 {
+                    width: 314px;
+                    height: 365px;
+                    top: 134px;
+                    left: 346px;
+                }
+                .zakaz {
+                    width: 154.946px;
+                    height: 42.52px;
+                    font-size: 28.827px;
+                    letter-spacing: -1.441px;
+                    bottom: 69px;
+                    left: 425px;
+                }
+                .section2 {
+                    max-width: 1024px;
+                    height: 713px;
+                }
+                .choosetitle {
+                    width: 1101.921px;
+                    height: 532.776px;
+                    font-size: 360.34px;
+                    letter-spacing: -18.017px;
+                    bottom: 126px;
+                    left: 121px;
+                } 
+                .choosetitle1 {
+                    font-size: 28.827px;
+                    letter-spacing: -1.441px;
+                    top: 37px;
+                    left: 69px;
+                }
+                .mainlichiko {
+                    width: 259.445px;
+                    height: 341.603px;
+                    top: 167px;
+                    left: 121px;
+                }
+                .mainlichiko_2 {
+                    width: 259.445px;
+                    height: 341.603px;
+                    top: 167px;
+                    left: 121px;
+                }
+                .mainlichiko_3 {
+                    width: 259.445px;
+                    height: 341.603px;
+                    top: 167px;
+                    left: 121px;
+                }
+                .mainlichiko_4 {
+                    width: 259.445px;
+                    height: 341.603px;
+                    top: 167px;
+                    left: 121px;
+                }
+                .ushko {
+                    width: 9px;
+                    height: 74px;
+                    top: 319px;
+                    left: 121px;
+                }
+                .uhotxt {
+                    font-size: 21.62px;
+                    letter-spacing: -1px;
+                    left: -40px;
+                }
+                .glazik {
+                    width: 92.968px;
+                    height: 92.968px;
+                    top: 310px;
+                    left: 265px;
+                }    
+                .glaziktxt {
+                    font-size: 21.62px;
+                    letter-spacing: -1px;
+                    top: 90px;
+                    left: 80px;
+                }  
+                .lichiko {
+                    width: 222.691px;
+                    height: 25.59px;
+                    top: 491px;
+                    left: 142px;
+                }
+                .lichikotxt {
+                    font-size: 21.62px;
+                    letter-spacing: -1px;
+                    top: 35px;
+                    left: 200px;
+                } 
+                .lichiko_1 {
+                    width: 216.204px;
+                    height: 216.204px;
+                    font-size: 28.827px;
+                    font-weight: 400;
+                    letter-spacing: -1.441px;
+                    padding-left: 170px;
+                    padding-top: 170px;
+                    top: 121px;
+                    left: 500px;
+                }
+                .lichiko_2 {
+                    width: 216.204px;
+                    height: 216.204px;
+                    font-size: 28.827px;
+                    font-weight: 400;
+                    letter-spacing: -1.441px;
+                    padding-left: 170px;
+                    padding-top: 170px;
+                    top: 121px;
+                    left: 750px;
+                }
+                .lichiko_3 {
+                    width: 216.204px;
+                    height: 216.204px;
+                    font-size: 28.827px;
+                    font-weight: 400;
+                    letter-spacing: -1.441px;
+                    padding-left: 170px;
+                    padding-top: 170px;
+                    top: 387px;
+                    left: 500px;
+                }
+                .lichiko_4 {
+                    width: 216.204px;
+                    height: 216.204px;
+                    font-size: 28.827px;
+                    font-weight: 400;
+                    letter-spacing: -1.441px;
+                    padding-left: 170px;
+                    padding-top: 170px;
+                    top: 387px;
+                    left: 750px;
+                }
+                .stroka2 {
+                    height: 90px;
+                    top: 625px
+                }
+                .stroka2-txt {
+                    font-size: 77px;
+                    top: 625px
+                }
+                .section3 {
+                    max-width: 1024px;
+                    height: 647.171px;
+                }
+                .title3 {
+                    width: 1101.921px;
+                    height: 532.776px;
+                    font-size: 360.34px;
+                    letter-spacing: -18.017px;
+                    top: 165px;
+                    right: 73px;
+                }
+                .korzinatitle {
+                    height: 62px;
+                    font-size: 28.827px;
+                    letter-spacing: -1.441px;
+                    top: 48px;
+                    left: 74px;
+                }
+                .poloska {
+                    width: 262.328px;
+                    height: 23.793px;
+                    top: 69px;
+                    left: 60px;
+                }  
+                .glaz1{
+                    width: 165px;
+                    top: 178px;
+                    left: 45px;
+                }
+                .nosik1 {
+                    width: 121.61px;
+                    top: 195px;
+                    left: 205px;
+                } 
+                .ushko1 {
+                    width: 138.99px;
+                    top: 116px;
+                    left: 348px;
+                }
+                .glaz2{
+                    width: 119px;
+                    top: 141px;
+                    left: 509px;
+                } 
+                .gubki1{
+                    width: 173.442px;
+                    top: 133px;
+                    right: 233px;
+                }
+                .gubki2 {
+                    width: 153.812px;
+                    top: 359px;
+                    left: 23px;
+                }
+                .gubki3{
+                    width: 123.967px;
+                    top: 318px;
+                    left: 191px;
+                }
+                .glaz3 {
+                    width: 153px;
+                    top: 309px;
+                    left: 320px;
+                }  
+                .ushko2{
+                    width: 151.738px;
+                    bottom: 23px;
+                    left: 38px;
+                }
+                .glaz4 {
+                    width: 119px;
+                    bottom: 77px;
+                    left: 221px;
+                }
+                .nosik2 {
+                    width: 105px;
+                    bottom: 45px;
+                    left: 369px;
+                }
+                .korzina {
+                    width: 700.988px;
+                    bottom: -15px;
+                    right: -35px;
+                }  
+                .check {
+                    font-size: 21.62px;
+                    letter-spacing: -1.5px;
+                }
+                .checkcheck{
+                    border: 4px solid #FAADBF;
+                    width: 32.431px;
+                    height: 32.431px;
+                }
+                .checkcheck:checked{
+                    background: #FAADBF;
+                    border: 4px solid #FAADBF;
+                    width: 32.431px;
+                    height: 32.431px;
+                }
+                .check1{
+                    top: 71px;
+                    right: 145px;
+                }
+                .ch1, .ch1:checked {
+                    top: 69px;
+                    right: 85px;
+                }
+                .check2{
+                    top: 120px;
+                    right: 145px;
+                } 
+                .ch2, .ch2:checked {
+                    top: 118px;
+                    right: 85px;
+                }
+                .check3{
+                    top: 168px;
+                    right: 145px;
+                }
+                .ch3, .ch3:checked {
+                    top: 168px;
+                    right: 85px;
+                }
+                .check4{
+                    top: 216px;
+                    right: 145px;
+                }
+                .ch4, .ch4:checked {
+                    top: 216px;
+                    right: 85px;
+                }
+                .dontforget {
+                    width: 376.195px;
+                    height: 57.154px;
+                    bottom: 52px;
+                    right: 16px;
+                }
+                .dontforgettitle {
+                    font-size: 28.827px;
+                    letter-spacing: -1.441px;
+                    top: 9px;
+                    left: 5px;
+                }
+                .section4 {
+                    max-width: 1024px;
+                    height: 731px;
+                }
+                
+                .title4 {
+                    width: 718.316px;
+                    height: 532.776px;
+                    font-size: 360px;
+                    letter-spacing: -25px;
+                    top: 178px;
+                    left: -220px;
+                }  
+                .title5 {
+                    width: 718.316px;
+                    height: 532.776px;
+                    font-size: 360px;
+                    letter-spacing: -25px;
+                    top: -80px;
+                    left: 375px;
+                }
+                .title6 {
+                    width: 718.316px;
+                    height: 532.776px;
+                    font-size: 360px;
+                    letter-spacing: -25px;
+                    top: 158px;
+                    right: -172px;
+                }
+                .memorytitle {
+                    width: 241px;
+                    height: 52px;
+                    font-size: 28.827px;
+                    letter-spacing: -1.441px;
+                    top: 48px;
+                    left: 71px;
+                }
+                .memorybase {
+                    width: 740.139px;
+                    top: 100px;
+                    left: 157px;
+                    grid-template-columns: repeat(4, 140.533px);
+                    gap: 18px;
+                    padding: 20px;
+                }
+                .card {
+                    width: 140.533px;
+                    height: 141.253px;
+                    padding-left: 45px;
+                  }
+                  .card-inner {
+                    width: 140.533px;
+                    height: 141.253px;
+                  }
+                  .card-front, .card-back {
+                    width: 140.533px;
+                    height: 141.253px;
+                  }
+                  .stroka3 {
+                    height: 90px;
+                    top: 640px
+                }
+                .stroka3-txt {
+                    font-size: 77px;
+                    top: 637px
+                }
+                .section5 {
+                    max-width: 1024px;
+                    height: 574.382px;
+                }
+                .title7 {
+                    width: 1101.921px;
+                    height: 532.776px;
+                    font-size: 360px;
+                    letter-spacing: -25px;
+                    top: 170px;
+                    left: -600px;
+                }
+                .title8 {
+                    width: 1020.22px;
+                    height: 663.235px;
+                    font-size: 360px;
+                    letter-spacing: -25px;
+                    top: 131px;
+                    right: -406px;
+                }
+                .lipsbutton {
+                    width: 682.484px;
+                    height: 212.601px;
+                    top: 180px;
+                    left: 163px;
+                    font-size: 72.068px;
+                    letter-spacing: -3.603px;
+                }
+                .gublast {
+                    width: 198.262px;
+                    height: 252.504px;
+                }
+                .gubigubi1 {
+                    top: 13px;
+                    left: 48px;
+                }
+                .gubigubi2 {
+                    top: 31px;
+                    left: 270px;
+                }
+                .gubigubi3 {
+                    top: -12px;
+                    left: 490px;
+                }
+                .gubigubi4 {
+                    top: 30px;
+                    left: 665px;
+                }   
+                .gubigubi5 {
+                    top: 124px;
+                    left: 376px;
+                }
+                .gubigubi6 {
+                    top: 220px;
+                    left: 55px;
+                }
+                .gubigubi7 {
+                    top: 295px;
+                    left: 243px;
+                }
+                .gubigubi8 {
+                    top: 329px;
+                    left: 500px;
+                }
+                .gubigubi9 {
+                    top: 244px;
+                    left: 686px;
+                } 
+                }
+
+                @media screen and (min-width: 1px) and (max-width: 360px) {
+                    .section1 {
+                        max-width: 360px;
+                        height: 645px;
+                    }
+                    .stroka1 {
+                        height: 48px;
+                    }
+                    .stroka1-txt {
+                        font-size: 39.509px;
+                    }
+                    .title1 {
+                        width: 495.208px;
+                        height: 148.315px;
+                        top: 196px;
+                        left: -47px;
+                        font-size: 127.479px;
+                        letter-spacing: -6.374px;
+                    }
+                    .title2 {
+                        width: 425.167px;
+                        height: 108.725px;
+                        top: 213px;
+                        left: -53px;
+                        font-size: 111.227px;
+                        letter-spacing: -5.561px;
+                    }
+                    .face1 {
+                        width: 171px;
+                        height: 198px;
+                        top: 258px;
+                        left: 98px;
+                    }
+                    .zakaz {
+                        width: 112.721px;
+                        height: 31.22px;
+                        font-size: 21.166px;
+                        letter-spacing: -1.058px;
+                        bottom: 65px;
+                        left: 127px;
+                    }
+                    .section2 {
+                        max-width: 360px;
+                        height: 613px;
+                    }
+                    .choosetitle {
+                        width: 730.25px;
+                        height: 353.074px;
+                        font-size: 238.8px;
+                        letter-spacing: -11.94px;
+                        bottom: 243px;
+                        left: -101px;
+                    } 
+                    .choosetitle1 {
+                        font-size: 21.17px;
+                        letter-spacing: -1.059px;
+                        top: 10px;
+                        left: 24px;
+                    }
+                    .mainlichiko {
+                        width: 160.744px;
+                        height: 211.646px;
+                        top: 49px;
+                        left: 100px;
+                    }
+                    .mainlichiko_2 {
+                        width: 160.744px;
+                        height: 211.646px;
+                        top: 49px;
+                        left: 100px;
+                    }
+                    .mainlichiko_3 {
+                        width: 160.744px;
+                        height: 211.646px;
+                        top: 49px;
+                        left: 100px;
+                    }
+                    .mainlichiko_4 {
+                        width: 160.744px;
+                        height: 211.646px;
+                        top: 49px;
+                        left: 100px;
+                    }
+                    .ushko {
+                        width: 6.335px;
+                        height: 47.415px;
+                        top: 142px;
+                        left: 100px;
+                    }
+                    .uhotxt {
+                        font-size: 13.395px;
+                        letter-spacing: -0.67px;
+                        left: -30px;
+                    }
+                    .glazik {
+                        width: 57.6px;
+                        height: 57.6px;
+                        top: 137px;
+                        left: 189px;
+                    }    
+                    .glaziktxt {
+                        font-size: 13.395px;
+                        letter-spacing: -0.67px;
+                        top: 60px;
+                        left: 50px;
+                    }  
+                    .lichiko {
+                        width: 137.973px;
+                        height: 15.855px;
+                        top: 249px;
+                        left: 113px;
+                    }
+                    .lichikotxt {
+                        font-size: 13.395px;
+                        letter-spacing: -0.67px;
+                        top: 20px;
+                        left: 125px;
+                    } 
+                    .lichiko_1 {
+                        width: 97.227px;
+                        height: 97.227px;
+                        font-size: 12.964px;
+                        font-weight: 400;
+                        letter-spacing: -1.441px;
+                        padding-left: 75px;
+                        padding-top: 75px;
+                        top: 310px;
+                        left: 53px;
+                    }
+                    .lichiko_2 {
+                        width: 97.227px;
+                        height: 97.227px;
+                        font-size: 12.964px;
+                        font-weight: 400;
+                        letter-spacing: -1.441px;
+                        padding-left: 75px;
+                        padding-top: 75px;
+                        top: 310px;
+                        left: 210px;
+                    }
+                    .lichiko_3 {
+                        width: 97.227px;
+                        height: 97.227px;
+                        font-size: 12.964px;
+                        font-weight: 400;
+                        letter-spacing: -1.441px;
+                        padding-left: 75px;
+                        padding-top: 75px;
+                        top: 440px;
+                        left: 53px;
+                    }
+                    .lichiko_4 {
+                        width: 97.227px;
+                        height: 97.227px;
+                        font-size: 12.964px;
+                        font-weight: 400;
+                        letter-spacing: -1.441px;
+                        padding-left: 75px;
+                        padding-top: 75px;
+                        top: 440px;
+                        left: 210px;
+                    }
+                    .stroka2 {
+                        height: 48px;
+                        top: 565px
+                    }
+                    .stroka2-txt {
+                        font-size: 39.509px;
+                        top: 565px
+                    }
+                    .section3 {
+                        max-width: 360px;
+                        height: 639px;
+                    }
+                    .title3 {
+                        width: 656.739px;
+                        height: 317.532px;
+                        font-size: 214.761px;
+                        letter-spacing: -10.737px;
+                        top: 175px;
+                        right: -147px;
+                    }
+                    .korzinatitle {
+                        height: 62px;
+                        font-size: 21.17px;
+                        letter-spacing: -1.059px;
+                        top: 29px;
+                        left: 27px;
+                    }
+                    .poloska {
+                        width: 187px;
+                        height: 13.053px;
+                        top: 51px;
+                        left: 21px;
+                    }  
+                    .glaz1{
+                        width: 50.592px;
+                        top: 138px;
+                        left: 36px;
+                    }
+                    .nosik1 {
+                        width: 51.155px;
+                        top: 195px;
+                        left: 88px;
+                    } 
+                    .ushko1 {
+                        width: 42.617px;
+                        top: 124px;
+                        left: 134px;
+                    }
+                    .glaz2{
+                        width: 36.487px;
+                        top: 189px;
+                        left: 204px;
+                    } 
+                    .gubki1{
+                        width: 78.01px;
+                        top: 266px;
+                        right: 67px;
+                    }
+                    .gubki2 {
+                        width: 57.246px;
+                        top: 340px;
+                        left: 73px;
+                    }
+                    .gubki3{
+                        width: 64.407px;
+                        top: 313px;
+                        left: 128px;
+                    }
+                    .glaz3 {
+                        width: 46.955px;
+                        top: 244px;
+                        left: 170px;
+                    }  
+                    .ushko2{
+                        width: 51.194px;
+                        bottom: 319px;
+                        left: 37px;
+                    }
+                    .glaz4 {
+                        width: 36.487px;
+                        bottom: 262px;
+                        left: 287px;
+                    }
+                    .nosik2 {
+                        width: 105px;
+                        bottom: 45px;
+                        left: 369px;
+                    }
+                    .korzina {
+                        width: 374.088px;
+                        bottom: -11px;
+                        right: 0px;
+                    }  
+                    .check {
+                        font-size: 13.098px;
+                        letter-spacing: -0.655px;
+                    }
+                    .checkcheck{
+                        border: 1.746px solid #FAADBF;
+                        width: 19.647px;
+                        height: 19.647px;
+                    }
+                    .checkcheck:checked{
+                        background: #FAADBF;
+                        border: 1.746px solid #FAADBF;
+                        width: 19.647px;
+                        height: 19.647px;
+                    }
+                    .check1{
+                        top: 97px;
+                        right: 70px;
+                    }
+                    .ch1, .ch1:checked {
+                        top: 96px;
+                        right: 37px;
+                    }
+                    .check2{
+                        top: 122px;
+                        right: 70px;
+                    } 
+                    .ch2, .ch2:checked {
+                        top: 121px;
+                        right: 37px;
+                    }
+                    .check3{
+                        top: 147px;
+                        right: 70px;
+                    }
+                    .ch3, .ch3:checked {
+                        top: 147px;
+                        right: 37px;
+                    }
+                    .check4{
+                        top: 173px;
+                        right: 70px;
+                    }
+                    .ch4, .ch4:checked {
+                        top: 173px;
+                        right: 37px;
+                    }
+                    .dontforget {
+                        width: 200.76px;
+                        height: 30.501px;
+                        bottom: 24px;
+                        right: 36px;
+                    }
+                    .dontforgettitle {
+                        font-size: 15.384px;
+                        letter-spacing: -0.769px;
+                        top: 4px;
+                        left: 5px;
+                    }
+                    .section4 {
+                        max-width: 360px;
+                        height: 640px;
+                    }
+                    .title4 {
+                        width: 390.715px;
+                        height: 289.794px;
+                        font-size: 196.001px;
+                        letter-spacing: -9.8px;
+                        top: 111px;
+                        left: -107px;
+                    }  
+                    .title5 {
+                        width: 424.575px;
+                        height: 314.908px;
+                        font-size: 212.986px;
+                        letter-spacing: -10.649px;
+                        top: -71px;
+                        left: 9px;
+                    }
+                    .title6 {
+                        width: 404.444px;
+                        height: 299.977px;
+                        font-size: 202.888px;
+                        letter-spacing: -10.144px;
+                        top: 281px;
+                        right: -82px;
+                    }
+                    .memorytitle {
+                        width: 241px;
+                        height: 52px;
+                        font-size: 21.17px;
+                        letter-spacing: -1.059px;
+                        top: 40px;
+                        left: 25px;
+                    }
+                    .memorybase {
+                        width: 322px;
+                        top: 121px;
+                        left: 20px;
+                        grid-template-columns: repeat(3, 82px);
+                        gap: 10px;
+                        padding: 20px;
+                    }
+                    .card {
+                        width: 82px;
+                        height: 82px;
+                        padding-left: 8px;
+                      }
+                      .card-inner {
+                        width: 82px;
+                        height: 82px;
+                      }
+                      .card-front, .card-back {
+                        width: 82px;
+                        height: 82px;
+                      }
+                      .stroka3 {
+                        height: 48px;
+                        top: 592px
+                    }
+                    .stroka3-txt {
+                        font-size: 39.509px;
+                        top: 584px
+                    }
+                    .section5 {
+                        max-width: 360px;
+                        height: 637px;
+                    }
+                    .title7 {
+                        width: 580.269px;
+                        height: 377.227px;
+                        font-size: 204.95px;
+                        letter-spacing: -10.248px;
+                        top: -65px;
+                        left: -100px;
+                    }
+                    .title8 {
+                        width: 654.156px;
+                        height: 316.283px;
+                        font-size: 213.916px;
+                        letter-spacing: -10.696px;
+                        top: 475px;
+                        right: -83px;
+                    }
+                    .lipsbutton {
+                        width: 292.808px;
+                        height: 91.213px;
+                        top: 236px;
+                        left: 38px;
+                        font-size: 30.92px;
+                        letter-spacing: -1.546px;
+                    }
+                    .gublast {
+                        width: 138.563px;
+                        height: 176.611px;
+                    }
+                    .gubigubi1 {
+                        top: 30px;
+                        left: 44px;
+                    }
+                    .gubigubi2 {
+                        top: 21px;
+                        left: 158px;
+                    }
+                    .gubigubi3 {
+                        top: 127px;
+                        left: -21px;
+                    }
+                    .gubigubi4 {
+                        top: 142px;
+                        left: 214px;
+                    }   
+                    .gubigubi5 {
+                        top: 214px;
+                        left: 78px;
+                    }
+                    .gubigubi6 {
+                        top: 302px;
+                        left: 28px;
+                    }
+                    .gubigubi7 {
+                        top: 304px;
+                        left: 173px;
+                    }
+                    .gubigubi8 {
+                        top: 412px;
+                        left: -19px;
+                    }
+                    .gubigubi9 {
+                        top: 415px;
+                        left: 189px;
+                    } 
+                    }
